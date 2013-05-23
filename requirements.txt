@@ -3,6 +3,7 @@ Jinja2==2.7
 Mako==0.8.0
 MarkupSafe==0.18
 PasteDeploy==1.5.0
+Pygments==1.6
 SQLAlchemy==0.8.1
 WebOb==1.2.3
 alembic==0.5.0
@@ -12,13 +13,18 @@ lamson==1.3.4
 lockfile==0.9.1
 mock==1.0.1
 nose==1.3.0
--e git+https://github.com/timtadh/optutils.git@e5deb5d9a60fd86c35cda06ce7f6ae3891619a9f#egg=optutils-dev
+-e git+https://github.com/timtadh/optutils.git@master#egg=optutils-dev
 pyramid==1.4.2
+pyramid-debugtoolbar==1.0.6
+pyramid-tm==0.7
 python-daemon==1.6
 python-modargs==1.7
 repoze.lru==0.6
+transaction==1.4.1
 translationstring==1.1
+uWSGI==1.9.10
 venusian==1.0a8
 wsgiref==0.1.2
 zope.deprecation==4.0.2
 zope.interface==4.0.5
+zope.sqlalchemy==0.7.2
