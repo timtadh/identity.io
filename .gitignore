@@ -2,6 +2,7 @@
 *.swp
 *.swo
 env
+*.sqlite
 
 # C extensions
 *.so
