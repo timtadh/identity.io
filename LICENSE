@@ -1,19 +1,17 @@
 Dear Licensee,
 
-This program is licensed for public use under the Affero GPL version 3.
-It is placed under the GPL in order to be maximally available to the
-public. I am the developing this program to be a resource to the public
-for the securing their identities on the web. When something is in
-control of your identity it should be available for inspection by the
-user. By licensing this program under the Affero GPL I believe I have
-adequately ensured users can inspect the program that provides their
-identity services.
+This program is licensed for public use under the Affero GPL version 3.  It is
+placed under the GPL in order to be maximally available to the public. I am
+the developing this program to be a resource to the public for the securing
+their identities on the web. When something is in control of your identity it
+should be available for inspection by the user. By licensing this program
+under the Affero GPL I believe I have adequately ensured users can inspect the
+program that provides their identity services.
 
-Note, since this is the Affero version of the GNU General Public License
-if provides a publicly available service using a modified version of
-this program the modified version must be made available. Exact terms of
-this license are available below, see section 13 for the particular
-restriction mentioned here.
+Note, since this is the Affero version of the GNU General Public License if
+provides a publicly available service using a modified version of this program
+the modified version must be made available. Exact terms of this license are
+available below, see section 13 for the particular restriction mentioned here.
 
 Signed,
 Tim A. D. Henderson
@@ -21,7 +19,38 @@ Cleveland, 2013
 tadh@case.edu
 tim.tadh@gmail.com
 
------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+The "identity.io" program provides identity and email services for users of
+the world wide web.
+
+Copyright (C) 2013 Tim A. D. Henderson
+tadh@case.edu
+tim.tadh@gmail.com
+
+Department of Electrical Engineering and Computer Science
+Case Western Reserve University
+10900 Euclid Avenue
+321 Glennan Building
+Cleveland, OH 44106
+
+-----------------------------------------------------------------------------
+
+
+This program is free software: you can redistribute it and/or modify it under
+the terms of the GNU Affero General Public License as published by the Free
+Software Foundation, either version 3 of the License, or (at your option) any
+later version.
+
+This program is distributed in the hope that it will be useful, but WITHOUT
+ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS
+FOR A PARTICULAR PURPOSE.  See the GNU Affero General Public License for more
+details.
+
+You should have received a copy of the GNU Affero General Public License along
+with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+-----------------------------------------------------------------------------
 
                     GNU AFFERO GENERAL PUBLIC LICENSE
                        Version 3, 19 November 2007
